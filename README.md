@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Tech Jobs in the USA by Maestra (updated 2025-08-19)
 
-> This is a curated compilation of **502 Tech Jobs in the USA** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **500 USA Tech Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 💻 Tech Jobs In The Usa Roles
+## 💻 Usa Tech Jobs Roles
 
 | Company | Role | Location | Application |
 |---|---|---|---|
@@ -36,6 +36,7 @@
 | Datsolutions | Staff Applied Scientist | Seattle, Washington | [Apply](https://careers.dat.com/jobs/5617638004?gh_jid=5617638004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jpmc.fa | Operations - Executive Director, Transformation & Servicing Innovation | Remote | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/210655766?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Cfopitt | Data Engineer, Athletics | Remote | [Apply](https://cfopitt.taleo.net/careersection/pitt_staff_external/jobdetail.ftl?job=25004273&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| 4754fdfb-ff65-491c-812a-b0fe7967fee2 | Data Scientist II | Norfolk, Virginia | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3504563?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Betterup | Senior Product Data Scientist | City of New York, New York | [Apply](https://jobs.ashbyhq.com/betterup/489e8d6d-7b26-41b1-ac3f-f0fdea5d8192?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Com Hasbro | Principal Data Scientist (Renton, Washington, US, 98056) | Renton, Washington | [Apply](https://jobs.hasbro.com/job/Renton-Principal-Data-Scientist-Wash-98056/1294707100/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Integrity Management Services, | Sr. Data Scientist - Public Healthcare Fraud Detection & Linked Data Analytics | Alexandria, Virginia | [Apply](https://apply.workable.com/j/ADE70AA5F1?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -61,7 +62,6 @@
 | Ad333ea2-8bdb-4f34-a4b4-928a2644de1c | Senior Data Scientist | Washington, District of Columbia | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ad333ea2-8bdb-4f34-a4b4-928a2644de1c&jobId=565674&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Aa224 | Data Scientist Lead | Milam County, Texas | [Apply](https://aa224.taleo.net/careersection/ex/jobdetail.ftl?job=JR100256&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Com Coach | Data Scientist, Forecasting (New York, NY, US) | City of New York, New York | [Apply](https://careers.tapestry.com/job/New-York-Data-Scientist%2C-Forecasting-NY-10001/1311186400/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Avalara | Senior Data Scientist | Durham, North Carolina | [Apply](https://careers.avalara.com/jobs/15977/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Tas-uhg | Lead Data Scientist | Montgomery County, Kansas | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300907&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Caseysstoresupportcenter | Senior Data Scientist | Ankeny, Iowa | [Apply](https://myjobs.adp.com/caseysstoresupportcenter/cx/job-details?reqId=5001140088906&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Quizlet-2 | Sr. Staff Data Scientist | San Francisco, California | [Apply](https://jobs.lever.co/quizlet-2/d1aed96d-4395-4302-8ebc-a84f963de4a5?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -113,7 +113,6 @@
 | Hims-and-hers | Staff Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/b2597c61-4fc6-4b04-ae82-004849488479?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Hims-and-hers | Sr. Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/5f446316-3b6d-409f-ba55-0f1e1bd90416?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Hims-and-hers | Principal Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/327a675e-44f7-4952-a6fd-6e82047dcb74?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Avalara | Machine Learning Engineer V | Montgomery County, Kansas | [Apply](https://careers.avalara.com/jobs/16168/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Youtopia-llc | Product Owner/Product Manager | Lakewood, Colorado | [Apply](https://youtopia-llc.breezy.hr/p/8209be0a7c4a-product-owner-product-manager?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Stgcapgemini | Data Analyst - All Locations Non-California - Campus Recruiting 2020 | Remote | [Apply](https://stgcapgemini.taleo.net/careersection/1/jobdetail.ftl?job=043981&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Kikoff | Product Designer | San Francisco, California | [Apply](https://jobs.ashbyhq.com/kikoff/0e85bdb6-8b68-40d5-9a4b-ceaa81124233?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -187,7 +186,6 @@
 | Eu Ericsson | Engineer V-Security (769678) | Santa Clara, California | [Apply](https://career2.successfactors.eu/career?career_ns=job_listing&company=Ericsson&career_job_req_id=769678&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | F6c3f193-f4f5-416d-9e91-ffb87a922bda | Senior Security Engineer | Cook County, Illinois | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3504107?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Assembledhq | Software Engineer - Security | City of New York, New York | [Apply](https://jobs.ashbyhq.com/assembledhq/533187a1-0c06-48cb-95f7-9b7e12f0f696?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Bcbsa-careers | Security Engineer - Data | Chicago, Illinois | [Apply](https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Security-Engineer---Data_JR5335?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Union-tech | Staff Security Engineer - Industrial Control Systems | Dallas, Texas | [Apply](https://jobs.ashbyhq.com/union-tech/bbd1a45b-7681-4349-9513-fd98c217f836?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Com Blackveatch2 | Facilities Support Engineer - Federal (Arlington, VA, US) | Arlington, Virginia | [Apply](https://careers.bv.com/job/Arlington-Facilities-Support-Engineer-Federal-VA-22201/1175162201/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Com Blackveatch2 | Physical & Electronic Security Engineer (US) | Remote | [Apply](https://careers.bv.com/job/Physical-&-Electronic-Security-Engineer/1202948501/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -205,15 +203,15 @@
 | Stglbl | Senior Network Security Engineer | Remote | [Apply](https://stglbl.taleo.net/careersection/5/jobdetail.ftl?job=103538&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Givebutter | Senior Product Manager, Growth | Montgomery County, Kansas | [Apply](https://jobs.ashbyhq.com/givebutter/cd73781b-fe93-4abf-9f5b-c54c2bbe58b0?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Givebutter | Senior Product Manager, Payments | Montgomery County, Kansas | [Apply](https://jobs.ashbyhq.com/givebutter/0d18a39a-4323-481a-af5e-b59c6081b327?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Billcom | Senior Product Manager- Card Product | Draper, Utah | [Apply](https://www.bill.com/job?gh_jid=5621623004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Oscar | Senior Product Manager, Clinical | City of New York, New York | [Apply](http://www.hioscar.com/careers/7172921?gh_jid=7172921&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Oscar | Staff Product Manager | Montgomery County, Kansas | [Apply](http://www.hioscar.com/careers/7172925?gh_jid=7172925&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Billcom | Senior Product Manager- Card Product | Draper, Utah | [Apply](https://www.bill.com/job?gh_jid=5621623004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Commerceiq | In-Store Product Manager | Montgomery County, Kansas | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/6681842003?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Commerceiq | Senior Product Manager | Mountain View, California | [Apply](https://job-boards.greenhouse.io/commerceiq/jobs/6679428003?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eeho.fa.us2 | Product Mgmt/Strategy Director-ProdDev | Williamson County, Texas | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/304997?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eeho.fa.us2 | Product Manager/Strategy 4-ProdDev | Montgomery County, Kansas | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/304467?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Pax8 | Product Manager - Data Engineering | Denver, Colorado | [Apply](https://www.pax8.com/en-us/careers/job-openings?gh_jid=5616052004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Hdox.fa.us6 | Senior Product Manager | Pittsburgh, Pennsylvania | [Apply](https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/41378?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Pax8 | Product Manager - Data Engineering | Denver, Colorado | [Apply](https://www.pax8.com/en-us/careers/job-openings?gh_jid=5616052004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Semgrep | Senior/Staff Product Manager | San Francisco, California | [Apply](https://job-boards.greenhouse.io/semgrep/jobs/4830705007?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Getstimulus-talent | Sr. Product Manager (Remote) | Smith County, Kansas | [Apply](https://getstimulus-talent.freshteam.com/jobs/LwseF4ZWGAYI/Sr.%20Product%20Manager%20(Remote)?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Zinnia | Senior Product Manager | Town of Brookhaven, New York | [Apply](https://job-boards.greenhouse.io/zinnia/jobs/4586691006?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -226,7 +224,6 @@
 | Uhg | Product Manager | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2304396&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Oplabs | Product Manager, Payments | Remote | [Apply](https://jobs.ashbyhq.com/oplabs/f12e4f49-23d1-48b6-836d-3d7da7e38291?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Findem | Principal Product Manager | Montgomery County, Kansas | [Apply](https://jobs.lever.co/findem/8386ebe0-50d4-4009-98a3-ebbc1ae97da5?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Codeforamerica | Principal Product Manager | Montgomery County, Kansas | [Apply](https://www.codeforamerica.org/jobs/posting/7162148?gh_jid=7162148&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jobgether | Principal Product Manager (Remote - US) | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/ABC5116687?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jobgether | In-Store Product Manager (Remote - US) | Remote | [Apply](https://apply.workable.com/j/ED2BF10113?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jobgether | Principal Product Manager (Remote - US) | Remote | [Apply](https://apply.workable.com/j/0824CF3E16?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -235,6 +232,7 @@
 | Tanium | Sr Product Manager - Endpoint | Remote | [Apply](https://www.tanium.com/careers/7174997?gh_jid=7174997&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Tanium | Sr Product Manager - Endpoint | Remote | [Apply](https://www.tanium.com/careers/7174998?gh_jid=7174998&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Tanium | Sr Product Manager - Endpoint | Remote | [Apply](https://www.tanium.com/careers/7175001?gh_jid=7175001&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Codeforamerica | Principal Product Manager | Montgomery County, Kansas | [Apply](https://www.codeforamerica.org/jobs/posting/7162148?gh_jid=7162148&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Swayable | Product Manager | San Francisco, California | [Apply](https://job-boards.greenhouse.io/swayable/jobs/4829801007?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Precisionmedicinegroup | Product Manager - Data Solutions | Montgomery County, Kansas | [Apply](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5596548004?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | 37503179-bebf-4c93-8972-146f2fa7cee1 | Product Manager, Telehandler | Coweta County, Georgia | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=37503179-bebf-4c93-8972-146f2fa7cee1&jobId=612959&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -243,8 +241,8 @@
 | Visa | Sr. Director Program Management and Business Operations | Brisbane, California | [Apply](https://jobs.smartrecruiters.com/Visa/744000076835226?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Visa | Product Manager | Atlanta, Georgia | [Apply](https://jobs.smartrecruiters.com/Visa/744000076630955?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Parkade | Product Manager | San Francisco, California | [Apply](https://jobs.ashbyhq.com/parkade/550ee51d-8ec0-42fa-a363-3229e9b38e9b?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Eevd-dev3.fa.us6 | Product Manager | South San Francisco, California | [Apply](https://eevd-dev3.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/2024145?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Sketchy | Principal Product Manager | Montgomery County, Kansas | [Apply](https://ats.rippling.com/sketchy/jobs/b7cb44b6-13b3-421c-912b-1712e4f656a4?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Eevd-dev3.fa.us6 | Product Manager | South San Francisco, California | [Apply](https://eevd-dev3.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/2024145?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Ebwg.fa.us2 | Product Manager | Norcross, Georgia | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/16699?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | A0c90180-aef0-44e5-968e-70350762a736 | PRODUCT MANAGER | Plantation, Florida | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a0c90180-aef0-44e5-968e-70350762a736&jobId=519592&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Gibraltar Gib1002gibin Ec03ae70-6d19-4e13-8576-caab2d725c12 | Product Manager | Dayton, Kentucky | [Apply](https://gibraltar.rec.pro.ukg.net/GIB1002GIBIN/JobBoard/ec03ae70-6d19-4e13-8576-caab2d725c12/OpportunityDetail?opportunityId=53f990d5-aa79-46ca-b1af-e7196979154c&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -261,7 +259,6 @@
 | Heico | Product Manager, Gov't & Military | Brentwood, New York | [Apply](https://myjobs.adp.com/heico/cx/job-details?reqId=5001123744900&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Heico | Product Manager | Broward County, Florida | [Apply](https://myjobs.adp.com/heico/cx/job-details?reqId=5001131871500&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | 733f75bd-91aa-4f76-8148-9d7eb4284b65 | Product Manager | Spring Township, Pennsylvania | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=733f75bd-91aa-4f76-8148-9d7eb4284b65&jobId=583764&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Comcast-comcast Careers | Product Manager | Remote | [Apply](https://comcast.wd1.myworkdayjobs.com/comcast_careers/job/NY---New-York-1407-Broadway-Floor-12/Product-Manager_R417664?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Loopreturns | Product Manager | Montgomery County, Kansas | [Apply](https://jobs.lever.co/loopreturns/91256bf4-9d9b-4a85-a52b-a81e2a12f1a9?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu Sephoraus | Director, Site Reliability Engineering (Remote, CA, US, 50321339) | San Francisco, California | [Apply](https://jobs.sephora.com/USA/job/Remote-Director%2C-Site-Reliability-Engineering-CA-50321339/1168422955/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu C0012595453p | Engineer III (Webster, MA, US) | Remote | [Apply](https://jobs.mapfre.com/job/Webster-Engineer-III-MA-01570/1230157001/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -271,10 +268,10 @@
 | Uhg | Lead Site Reliability Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2301765&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Gotofoodsjobs | Director, Site Reliability Engineering | Sandy Springs, Georgia | [Apply](https://myjobs.adp.com/gotofoodsjobs/cx/job-details?reqId=5001125831806&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Procurementsciences | Site Reliability Engineer (SRE) | Washington, District of Columbia | [Apply](https://jobs.ashbyhq.com/procurementsciences/61efba12-ba14-4ac4-9d14-98fe55e27d52?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Lowes-lws External Cs | Software Engineer | Charlotte, North Carolina | [Apply](https://lowes.wd1.myworkdayjobs.com/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer_JR-02236560?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Com Erieprod | IT Senior Software Engineer (Erie, PA, US, 16530) | Town of Mina, New York | [Apply](https://jobs.erieinsurance.com/job/Erie-IT-Senior-Software-Engineer-PA-16530/1294228300/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | 25667 5532 | Senior Developer | San Antonio, Texas | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25667&siteid=5532&PageType=JobDetails&jobid=5159568&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Ebxr.fa.us2 | Lead Platform Engineer | Remote | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/210213?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Teleworldsolutionsinc | Software Engineer | Reston, Virginia | [Apply](https://careers-teleworldsolutions.icims.com/jobs/3362/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu C0016306184p | Senior Software Engineer, Python (Chicago) (Chicago, IL, US) | Chicago, Illinois | [Apply](https://careers.fitch.group/job/Chicago-Senior-Software-Engineer%2C-Python-%28Chicago%29-IL-60290/1225505901/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu C0016306184p | Senior Software Engineer (Chicago, IL, US) | Chicago, Illinois | [Apply](https://careers.fitch.group/job/Chicago-Senior-Software-Engineer-IL-60290/1175603001/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu C0016306184p | Senior Software Engineer, Appian (Chicago) (Chicago, IL, US) | Chicago, Illinois | [Apply](https://careers.fitch.group/job/Chicago-Senior-Software-Engineer%2C-Appian-%28Chicago%29-IL-60290/1220140301/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -315,21 +312,21 @@
 | Adaptive-ml | DevOps Engineer | City of New York, New York | [Apply](https://jobs.ashbyhq.com/adaptive-ml/e44f1059-5c7d-44fa-ae25-67904f4f5b28?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Dust-identity | Senior DevOps Engineer | Newton, Massachusetts | [Apply](https://dust-identity.breezy.hr/p/5698d49d3042-senior-devops-engineer?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | E3932d5d-76d7-4cf9-8aa5-0c23d5c4dbac | DevOps Engineer | Remote | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e3932d5d-76d7-4cf9-8aa5-0c23d5c4dbac&jobId=579016&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Synchron | DevOps Engineer | City of New York, New York | [Apply](https://boards.greenhouse.io/synchron/jobs/5621925004?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Datarobot-datarobot External Careers | DevOps Engineer I | San Francisco, California | [Apply](https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/San-Francisco-California-US/DevOps-Engineer-I_R-102409?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Synchron | DevOps Engineer | City of New York, New York | [Apply](https://boards.greenhouse.io/synchron/jobs/5621925004?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Inspiracareers | DevOps Engineer (Remote) | Oak Brook, Illinois | [Apply](https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001135017606&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Procurementsciences | Sr. DevOps Engineer | Washington, District of Columbia | [Apply](https://jobs.ashbyhq.com/procurementsciences/a70965bb-4479-4570-bce4-840fd59d0748?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | DevOps Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300295&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Senior Devops Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2300316&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Senior DevOps Engineer | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2291187&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Associate DevOps Engineer-Azure Devops | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2297529&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Procurementsciences | Sr. DevOps Engineer | Washington, District of Columbia | [Apply](https://jobs.ashbyhq.com/procurementsciences/a70965bb-4479-4570-bce4-840fd59d0748?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Agolo | DevOps Engineer | Montgomery County, Kansas | [Apply](https://www.agolo.com/careers?gh_jid=7174586&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | A3c41b8b71eff8c4 | DevOps Engineer | Remote | [Apply](https://www.ivanti.com/company/careers/job?gh_jid=6682538003&gh_jid=6682538003&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Hilton | DevOps Engineer | Remote | [Apply](https://hilton.taleo.net/careersection/hil_corp_ext/jobdetail.ftl?job=COR0158U&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Northwesternmutual-corporate-careers | Software Engineer II | Milwaukee, Wisconsin | [Apply](https://northwesternmutual.wd1.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-II_JR-43519?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Litera2-litera Careers | Senior Software Developer in Test | Remote | [Apply](https://litera.wd1.myworkdayjobs.com/litera_careers/job/USA-New-York/Senior-Software-Developer-in-Test_R-500818?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Omron247cs | Software Engineer | Los Angeles, California | [Apply](https://myjobs.adp.com/omron247cs/cx/job-details?reqId=5001136626600&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Woven-by-toyota | Senior/Staff Fullstack Visualization Engineer | Palo Alto, California | [Apply](https://jobs.lever.co/woven-by-toyota/133e2d15-7d2e-4a59-bdfe-4fac2f9eac97?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Intactsoftware | Senior Software Developer | Remote | [Apply](https://intactsoftware.bamboohr.com/careers/113?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | 98301773-e68b-4e39-a97b-745c0460efd9 | Senior Software Engineer | Remote | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=98301773-e68b-4e39-a97b-745c0460efd9&jobId=546221&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Hrblock | *Sr Software Engineer | Kansas City, Missouri | [Apply](https://careers.hrblock.com/jobs/27637/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Snapsheet | Senior Software Engineer | Chicago, Illinois | [Apply](http://snapsheet.applytojob.com/apply/XKfhOHxRjk/Senior-Software-Engineer?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -371,7 +368,6 @@
 | Gotofoodsjobs | Principal Web Engineer | Sandy Springs, Georgia | [Apply](https://myjobs.adp.com/gotofoodsjobs/cx/job-details?reqId=5001135948906&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Community Sports Partners | Junior Web Developer | Fort Lauderdale, Florida | [Apply](https://apply.workable.com/j/B070C89BE0?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | 54ad0758-8728-441e-b5dc-e3d7ffbb84d7 | Web Developer | Sandy, Utah | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=54ad0758-8728-441e-b5dc-e3d7ffbb84d7&jobId=516373&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Gusto | Senior Staff Software Engineer, Marketing Technology | San Francisco, California | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7000965?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Vc3 | Web Developer - Front End I | Montgomery County, Kansas | [Apply](https://vc3.pinpointhq.com/en/postings/ae7748ca-c52c-4129-8c25-5e2b09a783e9?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Vc3 | Web Developer - Front End I | Montgomery County, Kansas | [Apply](https://vc3.pinpointhq.com/en/postings/c40dd1a3-2732-43e6-937c-0b1be7f7534b?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Junipersquare | Treasury Staff Software Engineer | Remote | [Apply](https://jobs.ashbyhq.com/junipersquare/83d355d6-654c-4a7a-a07e-74262d94c3fb?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -391,8 +387,8 @@
 | Eu Bertelsmann | Senior Developer, Full Stack (Open to Remote) (New York, NY, US, NY 10019) | City of New York, New York | [Apply](https://jobsearch.createyourowncareer.com/PRH_US/job/New-York-Senior-Developer%2C-Full-Stack-%28Open-to-Remote%29-NY-NY-10019/1235886301/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Eu Bertelsmann | Software Engineer (Heavy Front-end Development Focus) (Morrisville, NC, US, 27560) | Remote | [Apply](https://jobsearch.createyourowncareer.com/Relias_Learning/job/Morrisville-Software-Engineer-%28Heavy-Front-end-Development-Focus%29-NC-27560/1234860701/?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Evolutioniq | Senior Software Engineer, Front End | City of New York, New York | [Apply](https://job-boards.greenhouse.io/evolutioniq/jobs/5622014004?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Jpmc.fa | Front End / React Lead Software Engineer | City of New York, New York | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/210654225?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Truewhitespace | Senior Front-End Developer | Washington, District of Columbia | [Apply](https://truewhitespace.freshteam.com/jobs/5x2rT00oUPdv/Senior%20Front-End%20Developer?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Jpmc.fa | Front End / React Lead Software Engineer | City of New York, New York | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/210654225?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Yam1001yamam A32d90a2-eea8-4a64-a24c-fe0769d33017 | Front End Developer I (Temporary) | Stites / welwelhiituukpe, Idaho | [Apply](https://recruiting2.ultipro.com/yam1001yamam/JobBoard/a32d90a2-eea8-4a64-a24c-fe0769d33017/OpportunityDetail?opportunityId=4b93acf8-712b-4f1e-ba79-af5c308d5520&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Devtechnology | Front End Developer (WebEOC) | Remote | [Apply](https://job-boards.greenhouse.io/devtechnology/jobs/8121865002?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Exiger | Senior Front End Developer | Fairfax County, Virginia | [Apply](https://www.exiger.com/careers/5620841004?gh_jid=5620841004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -408,15 +404,16 @@
 | Arcade | Software Engineer Intern, Frontend - Fall 2025 | San Francisco, California | [Apply](https://jobs.lever.co/Arcade/7fa8337b-07e3-4f34-824d-1e4dbed3e5fe?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Arcade | Software Engineer Intern, Frontend - Winter 2025 | San Francisco, California | [Apply](https://jobs.lever.co/Arcade/418c36e2-3e08-4ff8-901d-927de5747e89?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Comun | Senior Front End / Mobile Software Engineer | City of New York, New York | [Apply](https://jobs.ashbyhq.com/comun/0147d84b-0cb2-44a3-970a-56565a9777e0?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Ecscloudjobs | Front-End Developer | Reston, Virginia | [Apply](https://myjobs.adp.com/ecscloudjobs/cx/job-details?reqId=5001120375506&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Udacity | Software Engineer - FrontEnd | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/udacity/jobs/8123917002?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Ecscloudjobs | Front-End Developer | Reston, Virginia | [Apply](https://myjobs.adp.com/ecscloudjobs/cx/job-details?reqId=5001120375506&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Fa-ertb-saasfaprod1.fa.ocs | Frontend Developer (Angular) - Dallas, TX | Dallas, Texas | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/23647?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jobgether | Senior Front End Engineer (React/Typescript) | Atlanta, Georgia | [Apply](https://apply.workable.com/j/B38783E32D?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Jobgether | Frontend Engineer (Remote - US) | Remote | [Apply](https://apply.workable.com/j/C7B175024C?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Smiletrain | Drupal, Frontend Developer | City of New York, New York | [Apply](https://smiletrain.bamboohr.com/careers/300?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Peoplelift | Front End Developer | Atlanta, Georgia | [Apply](http://peoplelift.applytojob.com/apply/A78V4YahIw/Front-End-Developer?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Occrp | Frontend Developer | Remote | [Apply](https://occrp.bamboohr.com/careers/47?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Everdriven | Senior Software Engineer, Front End | Greenwood Village, Colorado | [Apply](https://job-boards.greenhouse.io/everdriven/jobs/4887862008?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Pear | Senior Frontend Engineer | City of New York, New York | [Apply](https://jobs.ashbyhq.com/pear/bbf202f4-c307-408c-9fee-3ffbf7385d73?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| Smsoftconsulting | Remote-Senior Software Engineer-Intuit | Remote | [Apply](http://smsoftconsulting.applytojob.com/apply/Yqi1ZcknuI/RemoteSenior-Software-EngineerIntuit?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Senior Software Engineer II- JAVA+React/Node | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2287003&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Senior Software Engineer I | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2286729&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Brighthorizons-external-northamerica | Principal Software Engineer | Remote | [Apply](https://brighthorizons.wd1.myworkdayjobs.com/external-northamerica/job/Newton-Massachusetts-02459/Principal-Software-Engineer_JR-124947?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -455,6 +452,7 @@
 | Capitalone2-capital One | Lead Software Engineer, Back End ( Java, AWS) | Chicago, Illinois | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/Chicago-IL/Lead-Software-Engineer--Back-End---Java--AWS-_R223526-2?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capitalone2-capital One | Lead Software Engineer, Backend | Richmond, Virginia | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/Richmond-VA/Lead-Software-Engineer--Backend_R223494?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Clickup | Staff Backend Engineer, Automations | Montgomery County, Kansas | [Apply](https://clickup.com/careers/5621862004?gh_jid=5621862004&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| Covu | Staff Backend Engineer – Twilio Platform | Remote | [Apply](https://covu.bamboohr.com/careers/143?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capgemini | Node JS Backend Developer - Software Engineer Lead | Palisades Park, New Jersey | [Apply](https://capgemini.taleo.net/careersection/1/jobdetail.ftl?job=079531&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Lightspark | Senior Staff Engineer, Spark | Los Angeles, California | [Apply](https://jobs.ashbyhq.com/lightspark/e207e505-6b0c-4f1f-ae97-6e75dbd9fbeb?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Lightspark | Staff Backend Engineer, Spark | Los Angeles, California | [Apply](https://jobs.ashbyhq.com/lightspark/a97c84ff-80f0-4006-8bc8-a4a21139c382?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
@@ -496,11 +494,11 @@
 | Lilly-lly | Engineer - Full Stack Software | Indianapolis, Indiana | [Apply](https://lilly.wd1.myworkdayjobs.com/lly/job/US-Indianapolis-IN/Engineer---Full-Stack-Software_R-91326-1?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Deel | Senior Full Stack Engineer | Remote | [Apply](https://jobs.ashbyhq.com/deel/eef5c286-e727-4a37-ad15-629022a02950?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Visionist | Software Engineer (Full Stack/DevOps Focus) | Fairfax County, Virginia | [Apply](https://jobs.jobvite.com/visionist/job/oM9jxfwv?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
-| 28cc7266-8d24-45b3-bae5-9912b8eb2b88 | Full Stack Web & App Developer | Washington, District of Columbia | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=28cc7266-8d24-45b3-bae5-9912b8eb2b88&jobId=553750&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capitalone2-capital One | Lead Software Engineer, Full Stack - Card Tech | Reston, Virginia | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/McLean-VA/Lead-Software-Engineer--Full-Stack---Card-Tech_R223484-1?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capitalone2-capital One | Lead Software Engineer, Full Stack, Bank Tech | Remote | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--Bank-Tech_R223478-2?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capitalone2-capital One | Lead Software Engineer, Full Stack | Reston, Virginia | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R223492-2?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Capitalone2-capital One | Lead Software Engineer, Full Stack | Fairfax County, Virginia | [Apply](https://capitalone.wd1.myworkdayjobs.com/capital_one/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R223495-1?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
+| 28cc7266-8d24-45b3-bae5-9912b8eb2b88 | Full Stack Web & App Developer | Washington, District of Columbia | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=28cc7266-8d24-45b3-bae5-9912b8eb2b88&jobId=553750&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Wolfe-llc | Software Engineer, Full Stack | Pittsburgh, Pennsylvania | [Apply](https://wolfe-llc.breezy.hr/p/4532ff57821c-software-engineer-full-stack?utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Full Stack Engineer- Java , React/ angular | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2284495&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
 | Uhg | Senior Full Stack Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2261317&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=usajobs) |
